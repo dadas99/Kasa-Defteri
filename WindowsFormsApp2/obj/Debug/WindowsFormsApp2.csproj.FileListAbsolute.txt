@@ -1,0 +1,66 @@
+C:\Users\baba_\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\baba_\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\baba_\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\baba_\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\baba_\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\baba_\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\baba_\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\baba_\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\baba_\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\baba_\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\baba_\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.DB_Bağlan.resources
+F:\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+F:\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+F:\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+F:\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+F:\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.DB_Bağlan.resources
+F:\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+F:\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+F:\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+F:\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+F:\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+F:\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\baba_\OneDrive\Masaüstü\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\baba_\OneDrive\Masaüstü\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\baba_\OneDrive\Masaüstü\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\baba_\OneDrive\Masaüstü\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\baba_\OneDrive\Masaüstü\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.DB_Bağlan.resources
+C:\Users\baba_\OneDrive\Masaüstü\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\baba_\OneDrive\Masaüstü\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\baba_\OneDrive\Masaüstü\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\baba_\OneDrive\Masaüstü\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\baba_\OneDrive\Masaüstü\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\baba_\OneDrive\Masaüstü\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\RCAI\Desktop\Yeni klasör\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\RCAI\Desktop\Yeni klasör\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\RCAI\Desktop\Yeni klasör\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\RCAI\Desktop\Yeni klasör\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\RCAI\Desktop\Yeni klasör\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.DB_Bağlan.resources
+C:\Users\RCAI\Desktop\Yeni klasör\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\RCAI\Desktop\Yeni klasör\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\RCAI\Desktop\Yeni klasör\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\RCAI\Desktop\Yeni klasör\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\RCAI\Desktop\Yeni klasör\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\RCAI\Desktop\Yeni klasör\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+F:\gerekli\Yeni klasör\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+F:\gerekli\Yeni klasör\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+F:\gerekli\Yeni klasör\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+F:\gerekli\Yeni klasör\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+F:\gerekli\Yeni klasör\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.DB_Bağlan.resources
+F:\gerekli\Yeni klasör\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+F:\gerekli\Yeni klasör\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+F:\gerekli\Yeni klasör\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+F:\gerekli\Yeni klasör\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+F:\gerekli\Yeni klasör\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+F:\gerekli\Yeni klasör\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+Z:\gerekli\Yeni klasör\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+Z:\gerekli\Yeni klasör\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+Z:\gerekli\Yeni klasör\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+Z:\gerekli\Yeni klasör\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+Z:\gerekli\Yeni klasör\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.DB_Bağlan.resources
+Z:\gerekli\Yeni klasör\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+Z:\gerekli\Yeni klasör\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+Z:\gerekli\Yeni klasör\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+Z:\gerekli\Yeni klasör\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+Z:\gerekli\Yeni klasör\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+Z:\gerekli\Yeni klasör\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
